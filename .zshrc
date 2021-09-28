@@ -58,6 +58,8 @@ echoAndCopy() {
 	echo $1 | tr -d "\n" | pbcopy
 }
 
+export EDITOR=vim
+
 alias ros="arch -x86_64"
 alias arm="arch -arm64e"
 alias brewi='arch -x86_64 /usr/local/bin/brew'
