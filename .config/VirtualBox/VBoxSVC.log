@@ -1,0 +1,34 @@
+00:00:00.002447 main     VirtualBox XPCOM Server 6.1.26 r145957 linux.amd64 (Jul 29 2021 12:15:28) release log
+00:00:00.002450 main     Log opened 2021-09-27T20:43:59.085326000Z
+00:00:00.002450 main     Build Type: release
+00:00:00.002453 main     OS Product: Linux
+00:00:00.002455 main     OS Release: 5.13.19-2-MANJARO
+00:00:00.002456 main     OS Version: #1 SMP PREEMPT Sun Sep 19 21:31:53 UTC 2021
+00:00:00.002481 main     DMI Product Name: 80K6
+00:00:00.002490 main     DMI Product Version: Lenovo Z51-70
+00:00:00.002495 main     Firmware type: UEFI
+00:00:00.003340 main     Secure Boot: Disabled
+00:00:00.003391 main     Host RAM: 7867MB (7.6GB) total, 6702MB (6.5GB) available
+00:00:00.003402 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.003403 main     Process ID: 4926
+00:00:00.003403 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.005250 main     IPC socket path: /tmp/.vbox-koubadom-ipc/ipcd
+00:00:00.119120 nspr-2   VirtualBox: object creation starts
+00:00:00.119207 nspr-2   Home directory: '/home/koubadom/.config/VirtualBox'
+00:00:00.131412 nspr-2   Failed to retrive disk info: getDiskName(/dev/mapper/luks-97354f78-4c32-4188-82c3-e835b43ba696) --> luks-97354f78-4c32-4188-82c3-e835b43ba696
+00:00:00.137019 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.138875 nspr-2   HostDnsMonitor: initializing
+00:00:00.139174 nspr-2   NAT: resolv.conf: nameserver 1.1.1.1
+00:00:00.139186 nspr-2   NAT: resolv.conf: nameserver 8.8.4.4
+00:00:00.139197 nspr-2   HostDnsMonitor: updating information
+00:00:00.139210 nspr-2   HostDnsMonitor: old information
+00:00:00.139213 nspr-2     no server entries
+00:00:00.139216 nspr-2     no domain set
+00:00:00.139219 nspr-2     no search string entries
+00:00:00.139222 nspr-2   HostDnsMonitor: new information
+00:00:00.139225 nspr-2     server 1: 1.1.1.1
+00:00:00.139228 nspr-2     server 2: 8.8.4.4
+00:00:00.139231 nspr-2     domain: santutegia
+00:00:00.139234 nspr-2     search string 1: santutegia
+00:00:00.144294 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.145917 nspr-2   VirtualBox: object created
